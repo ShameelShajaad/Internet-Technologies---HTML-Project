@@ -48,16 +48,16 @@ It demonstrates:
 
 ## 📂 Folder Structure
 
-project-folder/
-│
-├─ index.html
-├─ Assets/
-│  └─ Images/
-│      ├─ Internet main.png
-│      ├─ Client Server Model.png
-│      ├─ HTTP Protocol.png
-│      ├─ DNS Server.png
-│      └─ ... (all other images)
+project-folder/  
+│  
+├─ index.html  
+├─ Assets/  
+│  └─ Images/  
+│      ├─ Internet main.png  
+│      ├─ Client Server Model.png  
+│      ├─ HTTP Protocol.png  
+│      ├─ DNS Server.png  
+│      └─ ... (all other images)  
 
 
 
@@ -71,7 +71,7 @@ project-folder/
 You can clone this project using Git:
 
 ```bash
-git clone https://github.com/ShameelShajaad/Internet-Technologies-HTML.git
+git clone https://github.com/ShameelShajaad/Internet-Technologies---HTML-Project.git
 ```
 
 ---
